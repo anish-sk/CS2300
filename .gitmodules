@@ -1,0 +1,30 @@
+[submodule "Nand2tetris-project11"]
+	path = Nand2tetris-project11
+	url = git@github.com:anish-sk/Nand2tetris-project11.git
+[submodule "Nand2Tetris-project10"]
+	path = Nand2Tetris-project10
+	url = git@github.com:anish-sk/Nand2Tetris-project10.git
+[submodule "Nand2Tetris-project8"]
+	path = Nand2Tetris-project8
+	url = git@github.com:anish-sk/Nand2Tetris-project8.git
+[submodule "Nand2Tetris-project7"]
+	path = Nand2Tetris-project7
+	url = git@github.com:anish-sk/Nand2Tetris-project7.git
+[submodule "Nand2Tetris-project6"]
+	path = Nand2Tetris-project6
+	url = git@github.com:anish-sk/Nand2Tetris-project6.git
+[submodule "Nand2Tetris-project5"]
+	path = Nand2Tetris-project5
+	url = git@github.com:anish-sk/Nand2Tetris-project5.git
+[submodule "Nand2Tetris-project4"]
+	path = Nand2Tetris-project4
+	url = git@github.com:anish-sk/Nand2Tetris-project4.git
+[submodule "Nand2Tetris-project3"]
+	path = Nand2Tetris-project3
+	url = git@github.com:anish-sk/Nand2Tetris-project3.git
+[submodule "Nand2Tetris-project2"]
+	path = Nand2Tetris-project2
+	url = git@github.com:anish-sk/Nand2Tetris-project2.git
+[submodule "Nand2Tetris-project1"]
+	path = Nand2Tetris-project1
+	url = git@github.com:anish-sk/Nand2Tetris-project1.git
